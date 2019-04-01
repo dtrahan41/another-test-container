@@ -1,0 +1,6 @@
+Bootstrap: docker
+From: ubuntu
+
+%enviornment
+SAMPLEVAR=21
+export SAMPLEVAR
